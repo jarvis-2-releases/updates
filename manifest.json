@@ -1,7 +1,7 @@
 {
-  "version": "2.7.0",
+  "version": "2.8.0",
   "released": "2026-11-24",
-  "package_url": "https://github.com/jarvis-2-releases/updates/releases/tag/v2.7.0",
-  "notes": "Direct GitHub zip asset download URL",
-  "sha256": "535996ee034bdafcbdd1e6a9567c0c1b1c1530624df08c53bbfb069dc9eccd49"
+  "package_url": "https://github.com/jarvis-2-releases/updates/releases/tag/v2.8.0",
+  "notes": "Publish update",
+  "sha256": "c9f3d3045ae5aa1c992d7c89ddba9f536c46aa3848748e099e916496ab8c245c"
 }
