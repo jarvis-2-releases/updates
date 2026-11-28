@@ -1,7 +1,7 @@
 {
-  "version": "2.9.0",
-  "released": "2026-11-24",
-  "package_url": "C:\\Users\\Public\\JARVIS_Updates\\jarvis_update_v2.9.0.zip",
-  "notes": "Auto-restart on banner tap + direct GitHub zip asset download",
-  "sha256": "5aed2e706c02d5f5395e9f0bc44c5dccbb972b22b9a3aea2de7ce447ce009c6d"
+  "version": "2.10.0",
+  "released": "2026-11-28",
+  "package_url": "C:\\Users\\Public\\JARVIS_Updates\\jarvis_update_v2.10.0.zip",
+  "notes": "publish update",
+  "sha256": "d401568524ba0801be6f53c97dbf5a6156d291a8c7163c954bdc194a2eb5d7a6"
 }
